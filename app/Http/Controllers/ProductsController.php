@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Product;
 
 class ProductsController extends Controller
 {
@@ -10,8 +11,12 @@ class ProductsController extends Controller
         return view('add-product');
     }
 
-    public function addMoney(Request $request){
-        Form::create([
+    public function ShowAddContactForm(){
+        return view('add-contact');
+    }
+
+    public function addContact(Request $request){
+        Product::create([
         'title' => request('title'),
         'price' => request('price')
         ]);
@@ -44,5 +49,4 @@ class ProductsController extends Controller
          return $product;
     }
 
-}
 }
