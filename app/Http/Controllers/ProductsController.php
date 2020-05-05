@@ -11,11 +11,7 @@ class ProductsController extends Controller
         return view('add-product');
     }
 
-    public function ShowAddContactForm(){
-        return view('add-contact');
-    }
-
-    public function addContact(Request $request){
+    public function addProduct(Request $request){
         Product::create([
         'title' => request('title'),
         'price' => request('price')
@@ -49,4 +45,7 @@ class ProductsController extends Controller
          return $product;
     }
 
+    public function ShowAddContactForm(){
+        return view('add-contact');
+    }
 }

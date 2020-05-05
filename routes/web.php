@@ -20,3 +20,6 @@ Route::get('/add-contact', 'ProductsController@ShowAddContactForm')->name('produ
 Route::post('/add', 'ProductsController@AddContact')->name('products.save');
 Route::get('/products', 'ProductsController@index')->name('products');
 Route::get('products/{product}', 'ProductsController@show');
+
+Route::get('contact-us', 'ContactController@getContact');
+Route::post('contact-us', 'ContactController@saveContact');
