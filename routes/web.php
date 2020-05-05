@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/add-contact', 'ProductsController@ShowAddContactForm')->name('products.add');
+Route::post('/add', 'ProductsController@AddContact')->name('products.save');
+Route::get('/products', 'ProductsController@index')->name('products');
+Route::get('products/{product}', 'ProductsController@show');
