@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('products', 'ProductController@getProduct');
-Route::post('products', 'ProductsController@show');
+Route::post('products', 'ProductController@saveProduct');
 
 Route::get('contact-us', 'ContactController@getContact');
 Route::post('contact-us', 'ContactController@saveContact');
