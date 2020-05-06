@@ -1,5 +1,4 @@
-@extends('dashboard')
-@section('content')
+
 
 <div class="content">
    <div class="row">
@@ -51,28 +50,18 @@
                    @enderror
                    </div>
                </div>   
-             <div class="col-md-12">
-                <div class="form-group">
-                   <label> Phone Number </label>
-                   <input type="text" class="form-control @error('phone_number') is-invalid @enderror" placeholder="Phone Number" name="phone_number">
-                   @error('phone_number')
-                       <span class="invalid-feedback" role="alert">
-                           <strong>{{ $message }}</strong>
-                       </span>
-                   @enderror
-                 </div>
-               </div>
-              <div class="col-md-12">
+                 <div class="col-md-12">
                  <div class="form-group">
                    <label> Subject </label>
                    <input type="text" class="form-control @error('subject') is-invalid @enderror" placeholder="Subject" name="subject">
                    @error('subject')
                        <span class="invalid-feedback" role="alert">
                            <strong>{{ $message }}</strong>
-                           </span>
+                       </span>
                    @enderror
                  </div>
                </div>
+               
               <div class="col-md-12">
                 <div class="form-group">
                    <label> Message </label>
@@ -96,5 +85,3 @@
      </div>
    </div>
 </div>
-
-@endsection

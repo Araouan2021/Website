@@ -1,4 +1,4 @@
-ddpush<?php
+<?php
 
 namespace App;
 
