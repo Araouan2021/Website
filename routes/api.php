@@ -16,3 +16,12 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::get('/', function()
+{
+    return View::make('pages.home');
+});
+Route::get('about', function()
+{
+    return View::make('pages.about');
+});
