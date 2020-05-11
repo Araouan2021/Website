@@ -1,4 +1,4 @@
 @extends('layouts.sidebar')
 @section('content')
-    i am the about page
+    Araouan was created in 2016.
 @stop

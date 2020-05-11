@@ -1,1 +1,1 @@
-"copyright text-right">© Copyright 2020 Araouan</div>
+<div id="copyright text-right">© Copyright 2020 Araouan </div>

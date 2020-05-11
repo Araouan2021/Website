@@ -15,11 +15,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-//Route::get('products', 'ProductController@getProduct');
-//Route::post('products', 'ProductController@saveProduct');
+Route::get('products', 'ProductController@getProduct');
+Route::post('products', 'ProductController@saveProduct');
 
-//Route::get('contact-us', 'ContactController@getContact');
-//Route::post('contact-us', 'ContactController@saveContact');
+Route::get('contact-us', 'ContactController@getContact');
+Route::post('contact-us', 'ContactController@saveContact');
 
 Route::get('/', function()
 {
@@ -30,9 +30,9 @@ Route::get('about', function()
     return View::make('pages.about');
 });
 
-Route::get('products', function()
+Route::get('shop', function()
 {
-    return View::make('pages.products');
+    return View::make('pages.shop');
 });
 Route::get('contact', function()
 {
