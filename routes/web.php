@@ -20,3 +20,12 @@ Route::post('products', 'ProductController@saveProduct');
 
 Route::get('contact-us', 'ContactController@getContact');
 Route::post('contact-us', 'ContactController@saveContact');
+
+Route::get('/', function()
+{
+    return View::make('pages.home');
+});
+Route::get('about', function()
+{
+    return View::make('pages.about');
+});
