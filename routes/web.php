@@ -18,13 +18,14 @@ Route::get('/', function () {
 Route::get('products', 'ProductController@getProduct');
 Route::post('products', 'ProductController@saveProduct');
 
-Route::get('contact-us', 'ContactController@getContact');
-Route::post('contact-us', 'ContactController@saveContact');
+Route::get('contact_us', 'ContactController@getContact');
+Route::post('contact_us', 'ContactController@saveContact');
 
 Route::get('/', function()
 {
     return View::make('pages.home');
 });
+
 Route::get('about', function()
 {
     return View::make('pages.about');
@@ -34,7 +35,9 @@ Route::get('shop', function()
 {
     return View::make('pages.shop');
 });
-Route::get('contact', function()
+
+Route::get('nav', function()
 {
-    return View::make('pages.contact');
+    return View::make('layouts.nav');
 });
+
