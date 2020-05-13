@@ -39,7 +39,7 @@ Route::get('shop', function()
 Route::get('blog', function()
 {
 	return View::make('pages.blog');
-}
+});
 
 Route::get('nav', function()
 {
