@@ -9,5 +9,10 @@ use App\photo;
 
 class ImageUploadController extends Controller
 {
-    
+    public function index()
+    {
+    	return view('simple_image_upload.index');
+    }
+
+    public function store(Request $request)
 }
