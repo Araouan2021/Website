@@ -46,3 +46,6 @@ Route::get('nav', function()
     return View::make('layouts.nav');
 });
 
+Route::get('simple-image-upload', 'simple_image_upload\ImageUploadController@index');
+Route::post('simple-image-upload', 'simple_image_upload\ImageUploadController@store');
+
