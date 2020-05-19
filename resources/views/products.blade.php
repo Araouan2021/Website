@@ -49,6 +49,7 @@
    </div>
 </div> 
 
-
-<img src="{{ asset ('storage/app/public/logos/cocoa.jpeg')}}" >
+<a href="#">
+                            <img alt="Responsive image" class="img-fluid" src="dist/img/cocoa.jpeg"/>
+                        </a>
 
