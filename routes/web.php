@@ -18,8 +18,8 @@ Route::get('/', function () {
 Route::get('products', 'ProductController@getProduct');
 Route::post('products', 'ProductController@saveProduct');
 
-Route::get('contact_us', 'ContactController@getContact');
-Route::post('contact_us', 'ContactController@saveContact');
+Route::get('contact-us', 'ContactController@getContact');
+Route::post('contact-us', 'ContactController@saveContact');
 
 Route::get('home', function()
 {

@@ -48,3 +48,7 @@
      </div>
    </div>
 </div> 
+
+
+<img src="{{ asset ('storage/app/public/logos/cocoa.jpeg')}}" >
+

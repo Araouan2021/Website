@@ -1,8 +1,4 @@
-<!doctype html>
-<html>
-<head>
-<script src="https://kit.fontawesome.com/4183029030.js" crossorigin="anonymous"></script>
-</head>
+
 <div class="content">
    <div class="row">
      <div class="col-md-12">

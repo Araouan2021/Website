@@ -31,8 +31,5 @@ class ContactController extends Controller
         $contact->message = $request->message;
 
         $contact->save();
-        
-        return back()->with('success', 'Thank you for contacting us!');
-
     }
 }

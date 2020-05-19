@@ -22,7 +22,7 @@ class HomeController extends Controller
         $request->fileToUpload->storeAs('logos',$fileName);
 
         return back()
-            ->with('success','You have successfully uploaded image.');
+            ->with('success','You have successfully uploaded an image.');
 
     }
 }
