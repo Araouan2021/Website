@@ -46,5 +46,7 @@ Route::get('nav', function()
     return View::make('layouts.nav');
 });
 
+Route::get('uploadfile','HomeController@uploadfile');
 
+Route::post('uploadfile','HomeController@uploadFilePost');
 
