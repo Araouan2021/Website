@@ -1,4 +1,55 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+</head>
+<style>
 
+body {background-color: BurlyWood;}
+
+h1 {
+  font-family: 'Abel', sans-serif;
+  color: Sienna;
+}
+
+input {
+  width: 150px;
+  height: 25px;
+  box-sizing: border-box;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    color: Peru;
+    font-weight: bold;
+    border: 2px solid Sienna;
+    border-radius: 2px;
+}
+
+content {
+  max-width: 500px;
+  margin: auto;
+  background: SandyBrown;
+  padding: 10px;
+}
+
+body {
+  color: Peru;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+  text-anchor: center;
+}
+
+.btn {
+  background-color: Sienna;
+  font-family: 'Abel', sans-serif;
+  font-size: 20px;
+    color: white;
+    padding: 12px 20px;
+    margin: 20px;
+    border: none;
+    border-radius: 4px;
+}
+</style>
+</body>
 <div class="content">
    <div class="row">
      <div class="col-md-12">
