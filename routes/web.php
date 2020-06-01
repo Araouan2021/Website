@@ -28,7 +28,7 @@ Route::get('home', function()
 
 Route::get('about_us', function()
 {
-    return View::make('pages.about');
+    return View::make('pages.about_us');
 });
 
 Route::get('shop', function()

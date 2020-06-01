@@ -9,12 +9,13 @@ body {background-color: Wheat;}
 
 h1 {
   font-family: 'Abel', sans-serif;
-  color: Peru;
+  color: Sienna;
 }
 
 h5 {
    font-size: 30px;
    font-weight: bold;
+   color: Sienna;
 }
 
 input {
@@ -24,24 +25,26 @@ input {
   padding: 15px 15px;
   font-family: 'Dosis', sans-serif;
   font-size: 20px;
-  color: Peru;
+  color: Sienna;
   font-weight: bold;
   margin: 8px 0;
   border: 2px solid Peru;
-  border-radius: 2px;
+  border-radius: 4px;
 }
 
 content {
   max-width: 500px;
   margin: auto;
-  background: Peru;
+  background: Sienna;
+  font-weight: bold;
   padding: 10px;
 }
 
 body {
-  color: Peru;
+  color: Sienna;
   font-size: 20px;
   font-family: 'Dosis', sans-serif;
+  font-weight: bold;
   text-anchor: center;
 }
 
