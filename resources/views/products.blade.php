@@ -53,3 +53,10 @@
                             <img alt="Responsive image" class="img-fluid" src="dist/img/cocoa.jpeg"/>
                         </a>
 
+                            <img alt="Responsive image" class="img-fluid" src="dist/img/sesameseeds.jpg"/>
+                        </a>
+
+                            <img alt="Responsive image" class="img-fluid" src="dist/img/honey.jpg"/>
+                        </a>
+
+
