@@ -5,29 +5,36 @@
 </head>
 <style>
 
-body {background-color: BurlyWood;}
+body {background-color: Wheat;}
 
 h1 {
   font-family: 'Abel', sans-serif;
-  color: Sienna;
+  color: Peru;
+}
+
+h5 {
+   font-size: 30px;
+   font-weight: bold;
 }
 
 input {
   width: 150px;
   height: 25px;
   box-sizing: border-box;
-    font-family: 'Dosis', sans-serif;
-    font-size: 20px;
-    color: Peru;
-    font-weight: bold;
-    border: 2px solid Sienna;
-    border-radius: 2px;
+  padding: 15px 15px;
+  font-family: 'Dosis', sans-serif;
+  font-size: 20px;
+  color: Peru;
+  font-weight: bold;
+  margin: 8px 0;
+  border: 2px solid Peru;
+  border-radius: 2px;
 }
 
 content {
   max-width: 500px;
   margin: auto;
-  background: SandyBrown;
+  background: Peru;
   padding: 10px;
 }
 
