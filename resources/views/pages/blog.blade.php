@@ -1,4 +1,10 @@
-<br>All of our products have numerous health benefits.<br>
+<h1>ALL OF OUR PRODUCTS HAVE NUMEROUS HEALTH BENEFITS.<h1>
+
+
+
+<a href="#">
+<img alt="Responsive image" class="img-fluid" src="dist/img/groundnut.jpg"/>
+</a>
 
 <h3>PEANUTS (ARACHIDES)<h3>
 
