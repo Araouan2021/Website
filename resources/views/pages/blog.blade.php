@@ -10,22 +10,26 @@ body {background-color: OldLace;}
 h1 {
   font-family: 'Abel', sans-serif;
   color: Black;
+  font-size: 40px;
+
 }
 
 h2 {
   font-family: 'Abel', sans-serif;
   color: Black;
+  font-size: 30px;
 }
 
 p {
   font-family: 'Abel', sans-serif;
   color: Black;
   font-weight: bold;
+  font-size: 20px;
 }
 
 </style>
 
-<h1>ALL OF OUR PRODUCTS HAVE NUMEROUS HEALTH BENEFITS.<h1>
+<h1>ALL OF OUR PRODUCTS HAVE NUMEROUS HEALTH BENEFITS<h1>
 
 
 
@@ -52,11 +56,16 @@ Peanuts are also a good source of plant protein.  Protein is needed to build and
 
 <br>Lastly, peanuts are rich in vitamins like foliate and vitamin E.  Vitamins are essential for growth and development.<br>
 
-www.pulse.ng
+<br>www.pulse.ng<br>
 </p>
+
+<a href="#">
+<img alt="Responsive image" class="img-fluid" src="dist/img/cashewnuts.jpeg"/>
+</a>
 
 <h2>CASHEWNUTS (NOIX DE CAJOU)</h2>
 
+<p>
 <br>Cashews are full of vitamins, minerals and antioxidants. For example, these include vitamins E, K, and B-6, and minerals like copper, phosphorus, zinc, magnesium, iron, and selenium.<br>
 
 <br>Some vitamins and minerals in nuts, such as potassium, vitamins E and B-6, and folic acid, help fight heart disease.<br>
@@ -67,10 +76,16 @@ www.pulse.ng
 
 <br>Cashews contain a lot of "good fat" which is believed to help prevent heart disease and reduce the risk of stroke. The fat also helps you feel full and satisfied and may help in managing your weight.<br>
 
-wwww.healthline.com
+<br>wwww.healthline.com<br>
+</p>
+
+<a href="#">
+<img alt="Responsive image" class="img-fluid" src="dist/img/sesameseeds.jpg"/>
+</a>
 
 <h2>SESAME SEEDS (SESAME)</h2>
 
+<p>
 <br>Sesame seeds are very nutritious because of their high levels of calcium and magnesium. They also contain iron and phosphorous, manganese, zinc, and copper.  Although they are small, they're high in fiber.<br>
 
 <br>Sesame seeds help lower blood pressure while their oil reduces hypertension.<br>
@@ -93,13 +108,19 @@ wwww.healthline.com
 
 <br>The fat in sesame seeds comes mostly from oleic acid. Oleic acid has been proven to reduce bad cholesterol (LDL) and increase good cholesterol (HDL).<br>
 
-www.businessghana.com
+<br>www.businessghana.com<br>
+</p>
+
+<a href="#">
+<img alt="Responsive image" class="img-fluid" src="dist/img/honey.jpg"/>
+</a>
 
 <h2>HONEY</h2>
 
-<h3>Honey is known to have antioxidant, antimicrobial, and soothing effects.<h3>
+<p>
+<br>Honey is known to have antioxidant, antimicrobial, and soothing effects.<br>
 
-<h3>It is composed of glucose, fructose, and minerals, such as iron, calcium, phosphate, sodium chloride, potassium, and magnesium.<h3>
+<br>It is composed of glucose, fructose, and minerals, such as iron, calcium, phosphate, sodium chloride, potassium, and magnesium.<br>
 
 <br>Honey has been proven to decrease the severity and duration of diarrhea. It also promotes increased potassium and water intake, which is helpful when experiencing diarrhea.<br>
 
@@ -113,10 +134,9 @@ www.businessghana.com
 
 <br>However, honey is not suitable for children younger than one year old.<br>
  
-<br>Honey's sweet flavor makes it an ideal substitute for sugar. 
+<br>Honey's sweet flavor makes it an ideal substitute for sugar.<br> 
 
-www.medicalnewstoday.com
-
+<br>www.medicalnewstoday.com<br>
 </p>
 
 
