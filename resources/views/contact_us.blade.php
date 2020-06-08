@@ -5,7 +5,7 @@
 </head>
 <style>
 
-body {background-color: Wheat;}
+body {background-color: OldLace;}
 
 h1 {
   font-family: 'Abel', sans-serif;

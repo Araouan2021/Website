@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Abel&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+</head>
+<style>
+
+body {background-color: OldLace;}
+
+</style>
+
 <h1>ALL OF OUR PRODUCTS HAVE NUMEROUS HEALTH BENEFITS.<h1>
 
 
@@ -40,7 +51,7 @@ www.pulse.ng
 
 wwww.healthline.com
 
-<h3>SESAME SEEDS<h3>
+<h3>SESAME SEEDS/SESAME<h3>
 
 <br>Sesame seeds are very nutritious because of their high levels of calcium and magnesium. They also contain iron and phosphorous, manganese, zinc, and copper.  Although they are small, they're high in fiber.<br>
 
@@ -54,4 +65,40 @@ wwww.healthline.com
 
 <br>Sesame seeds are loaded with calcium, phosphorous and zinc. One quarter cup of sesame seeds contains the same amount of calcium as a cup of milk! Sesame seeds help build new bones and repairs bones that have been injured. They also fight osteoporosis.<br>
 
+<br>Sesame seeds also contain a high amount of copper.  Copper combats joint and muscle pain. It also reduces inflammation and strengthens blood vessel walls and bones.  Copper also helps the body to absorb iron from food.<br>
+
+<br>Sesame seeds are a powerful digestive aid. They are high in fiber and can help keep you regular. Eating plenty of fiber is also good for heart health, and can help you feel full.<br>
+
+<br>Since sesame seeds contain high levels of zinc, they help your body produce collagen.  Collagen is essential to strong and healthy skin, hair and nails.<br>
+
+<br>Sesame seeds are high in protein. Your body uses protein to build muscles. It boosts metabolic rates and provides you with high levels of energy.<br>
+
+<br>The fat in sesame seeds comes mostly from oleic acid. Oleic acid has been proven to reduce bad cholesterol (LDL) and increase good cholesterol (HDL).<br>
+
 www.businessghana.com
+
+<h3>HONEY<h3>
+
+<h3>Honey is known to have antioxidant, antimicrobial, and soothing effects.<h3>
+
+<h3>It is composed of glucose, fructose, and minerals, such as iron, calcium, phosphate, sodium chloride, potassium, and magnesium.<h3>
+
+<br>Honey has been proven to decrease the severity and duration of diarrhea. It also promotes increased potassium and water intake, which is helpful when experiencing diarrhea.<br>
+
+<br>Research has shown that honey can reduce the upward flow of stomach acid and undigested food by lining the esophagus and stomach.  In turn, this helps to reduce the risk of gastroesophageal reflux disease (GERD) which can cause inflammation, acid reflux, and heartburn.<br>
+
+<br>Honey has also been used tyraditionally to relieve cold and cough symptoms.<br>
+
+<br>The World Health Organization (WHO) recommends honey as a natural cough remedy.<br>
+
+<br>The American Academy of Pediatrics also recognizes honey as a treatment for a cough.<br>
+
+<br>However, honey is not suitable for children younger than one year old.<br>
+ 
+<br>Honey's sweet flavor makes it an ideal substitute for sugar. 
+
+www.medicalnewstoday.com
+
+
+
+
