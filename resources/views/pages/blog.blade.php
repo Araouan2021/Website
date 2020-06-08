@@ -7,6 +7,22 @@
 
 body {background-color: OldLace;}
 
+h1 {
+  font-family: 'Abel', sans-serif;
+  color: Black;
+}
+
+h2 {
+  font-family: 'Abel', sans-serif;
+  color: Black;
+}
+
+p {
+  font-family: 'Abel', sans-serif;
+  color: Black;
+  font-weight: bold;
+}
+
 </style>
 
 <h1>ALL OF OUR PRODUCTS HAVE NUMEROUS HEALTH BENEFITS.<h1>
@@ -17,8 +33,9 @@ body {background-color: OldLace;}
 <img alt="Responsive image" class="img-fluid" src="dist/img/groundnut.jpg"/>
 </a>
 
-<h3>PEANUTS (ARACHIDES)<h3>
+<h2>PEANUTS (ARACHIDES)</h2>
 
+<p>
 <br>Although peanuts are high in fat, they contain monounsaturated and polyunsaturated fats which promote a healthy heart.<br>
 
 <br>Peanuts, groundnuts or arachides contain magnesium, copper, and arginine which are believed to reduce the risk of cardiovascular disease.<br>
@@ -36,8 +53,9 @@ Peanuts are also a good source of plant protein.  Protein is needed to build and
 <br>Lastly, peanuts are rich in vitamins like foliate and vitamin E.  Vitamins are essential for growth and development.<br>
 
 www.pulse.ng
+</p>
 
-<h3>CASHEWNUTS (NOIX DE CAJOU)<h3>
+<h2>CASHEWNUTS (NOIX DE CAJOU)</h2>
 
 <br>Cashews are full of vitamins, minerals and antioxidants. For example, these include vitamins E, K, and B-6, and minerals like copper, phosphorus, zinc, magnesium, iron, and selenium.<br>
 
@@ -51,7 +69,7 @@ www.pulse.ng
 
 wwww.healthline.com
 
-<h3>SESAME SEEDS/SESAME<h3>
+<h2>SESAME SEEDS (SESAME)</h2>
 
 <br>Sesame seeds are very nutritious because of their high levels of calcium and magnesium. They also contain iron and phosphorous, manganese, zinc, and copper.  Although they are small, they're high in fiber.<br>
 
@@ -77,7 +95,7 @@ wwww.healthline.com
 
 www.businessghana.com
 
-<h3>HONEY<h3>
+<h2>HONEY</h2>
 
 <h3>Honey is known to have antioxidant, antimicrobial, and soothing effects.<h3>
 
@@ -98,6 +116,8 @@ www.businessghana.com
 <br>Honey's sweet flavor makes it an ideal substitute for sugar. 
 
 www.medicalnewstoday.com
+
+</p>
 
 
 
