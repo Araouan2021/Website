@@ -39,3 +39,19 @@ www.pulse.ng
 <br>Cashews contain a lot of "good fat" which is believed to help prevent heart disease and reduce the risk of stroke. The fat also helps you feel full and satisfied and may help in managing your weight.<br>
 
 wwww.healthline.com
+
+<h3>SESAME SEEDS<h3>
+
+<br>Sesame seeds are very nutritious because of their high levels of calcium and magnesium. They also contain iron and phosphorous, manganese, zinc, and copper.  Although they are small, they're high in fiber.<br>
+
+<br>Sesame seeds help lower blood pressure while their oil reduces hypertension.<br>
+
+<br>Magnesium has been proven to lower blood pressure by dilating blood vessels.<br>
+
+<br>They are high in anti-oxidants. Sesame seeds contain phytate and magnesium. Magnesium is a powerful cancer fighter, while phytate is an antioxidant that fights free radicals in the blood.  Besides working against cancer, sesame seeds are ideal for anti-aging and fighting inflammation.<br>
+
+<br>Although the seeds are tiny,  the magnesium in them helps prevent diabetes and helps those who already have it. Sesame seed oil makes diabetes medication more effective. It also regulates insulin and glucose levels.<br>
+
+<br>Sesame seeds are loaded with calcium, phosphorous and zinc. One quarter cup of sesame seeds contains the same amount of calcium as a cup of milk! Sesame seeds help build new bones and repairs bones that have been injured. They also fight osteoporosis.<br>
+
+www.businessghana.com
