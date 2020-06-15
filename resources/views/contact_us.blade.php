@@ -28,7 +28,7 @@ input {
   color: Sienna;
   font-weight: bold;
   margin: 8px 0;
-  border: 2px solid Peru;
+  border: 2px solid Sienna;
   border-radius: 4px;
 }
 

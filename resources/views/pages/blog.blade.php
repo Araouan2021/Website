@@ -115,7 +115,7 @@ Peanuts are also a good source of plant protein.  Protein is needed to build and
 <img alt="Responsive image" class="img-fluid" src="dist/img/honey.jpg"/>
 </a>
 
-<h2>HONEY</h2>
+<h2>HONEY (MIEL)</h2>
 
 <p>
 <br>Honey is known to have antioxidant, antimicrobial, and soothing effects.<br>
@@ -138,6 +138,22 @@ Peanuts are also a good source of plant protein.  Protein is needed to build and
 
 <br>www.medicalnewstoday.com<br>
 </p>
+
+<a href="#">
+<img alt="Responsive image" class="img-fluid" src="dist/img/cocoa.jpeg"/>
+</a>
+
+<h2>COCOA (CACAO)</h2>
+
+<p>
+<br>Cocoa is rich in polyphenols, flavonoids, and niacin, which help protect cells from damage and bacteria,
+stop cancer cells from growing, prevent existing cancer cells from spreading and encourage cancerous cells to die.<br>
+
+<br>Cocoa powder contains polyphenols and flavanols which are anti-inflammatory so they may promote a healthy heart.<br>
+<br>Cocoa powder promotes lower blood pressure.<br>
+
+
+www.perfectketo.com
 
 
 
