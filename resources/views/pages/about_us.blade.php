@@ -4,7 +4,7 @@
 </head>
 <style>
 
-body {background-color: Wheat;}
+body {background-color: OldLace;}
 
 h3 {
 	font-family: 'Barlow Condensed', sans-serif;

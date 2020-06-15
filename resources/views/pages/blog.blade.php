@@ -146,14 +146,22 @@ Peanuts are also a good source of plant protein.  Protein is needed to build and
 <h2>COCOA (CACAO)</h2>
 
 <p>
-<br>Cocoa is rich in polyphenols, flavonoids, and niacin, which help protect cells from damage and bacteria,
+
+<br>Cocoa is rich in polyphenols, flavonoids, and niacin which help protect cells from damage and bacteria,
 stop cancer cells from growing, prevent existing cancer cells from spreading and encourage cancerous cells to die.<br>
 
 <br>Cocoa powder contains polyphenols and flavanols which are anti-inflammatory so they may promote a healthy heart.<br>
+
 <br>Cocoa powder promotes lower blood pressure.<br>
 
+<br>Eating chocolate makes most people feel happy.  Cocoa powder has been shown to be a mood booster and lower symptoms of depression.<br>
 
-www.perfectketo.com
+<br>Cocoa powder may put you in a better mood because of its calming neurotransmitters like serotonin.<br>
+
+<br>Consuming cocoa powder provides healthy fiber and promotes bowel movements.<br>
+
+<br>www.perfectketo.com<br>
+</p>
 
 
 
